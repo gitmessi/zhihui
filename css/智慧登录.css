@@ -1,0 +1,77 @@
+@charset "utf-8";
+#center{
+	background-image: url(../images/login_bg.jpg);
+	height: 510px;
+	background-repeat: no-repeat;
+    padding-top: 100px;margin-bottom: -38px;
+}
+
+#center td{
+	padding: 10px 5px;
+}
+
+#center .center-1{
+	margin: 0 auto;
+	width: 340px;
+	font-size: 14px;
+	background:rgba(255,255,255,.60);
+	padding: 30px 50px;
+	margin-bottom: 40px;
+}
+#center .center-2{
+	font-size: 22px;
+	font-weight: bold;
+	color: #e70014;
+}
+#center .center-3{
+	width: 330px;
+	height: 40px;
+	background-repeat: no-repeat;
+	background-image: url(../images/login_01.gif);
+	background-position: -5px 5px;
+	line-height: 40px;
+	text-indent: 35px;
+	outline: none;
+	border: none;
+}
+#center .center-3:focus{
+	border: 1px solid #e70014;
+	margin: -1px;
+}
+#center .center-5:focus{
+	border: 1px solid #e70014;
+	margin: -1px;
+}
+#center .center-4{
+	padding: 10px 5px;
+}
+#center .center-5{
+	width: 330px;
+	height: 40px;
+	background-repeat: no-repeat;
+	background-image: url(../images/login_02.gif);
+	background-position: -5px 6px;
+	line-height: 40px;
+	text-indent: 35px;
+	outline: none;
+	border: none;
+}
+
+#center .td1{
+
+}
+#center .td2{
+	float: right;
+	color: #272727;
+	text-decoration: none;
+	margin-right: 2px;
+}
+#center .center-6{
+	width: 330px;
+	height: 52px;
+	border: none;
+	color: #fff;
+	background-color: #e70014;
+	cursor: pointer;
+	font-size: 24px;
+}

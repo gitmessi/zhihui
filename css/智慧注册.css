@@ -1,0 +1,119 @@
+@charset "utf-8";
+.center{
+	background-color: #FFFFFF;
+}
+
+
+.center li{
+	float: left;
+	width: 33.3%;
+	text-align: center;
+	height: 51px;
+	line-height: 51px;
+	border-bottom: 3px solid #e6e6e6;
+	margin: 50px 0;
+	color: #999999;
+	font-size: 14px;
+}
+.center .li1{
+	border-color: #f48534;
+	color: #000000;
+	
+}
+
+.center li i{
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	border-radius: 13px;
+	background-color: #ccc;
+	line-height: 25px;
+	font-size: 14px;
+	color: white;
+	vertical-align:middle;
+	padding-right: 2px;
+}
+.center .li1 i{
+	background-color: #eb1030;
+
+}
+
+
+.center-2{
+	width: 485px;
+	margin: 0 auto;
+}
+
+.center-2 .span1{
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+.center-2 .span2{
+	display: inline-block;
+	width: 26px;
+	height: 32px;
+	line-height: 30px;
+	padding: 0 14px;
+	font-size: 14px;
+	background-color: #EEEEEE;
+	border: 1px solid #CCCCCC;
+
+}
+.center-2 .input1{
+	display: inline-block;
+	width: 135px;
+	height: 32px;
+	padding: 0 42px 0 10px;
+	outline: none;
+	border: 1px solid #CCCCCC;
+	margin-left: -4px;
+	border-left-color: white;
+}
+.center-2 .input2{
+	display: inline-block;
+	width: 83px;
+	height: 35px;
+	margin-left: 10px;
+	background-color: #e70014;
+	color: white;
+	border:1px solid #e70014;
+	border-radius: 2px;
+	outline:none;
+	cursor: pointer;
+}
+.center-2 .input3{
+	width: 94px;
+	height: 34px;
+	display:inline-block;
+	outline: none;
+	background-color: #EEEEEE;
+	border:1px solid #CCCCCC;
+}
+
+.checkbox{
+     padding-left: 10px;
+     margin-top: 20px;
+}
+.checkbox .span3{
+	margin-left: 20px;
+	font-size: 12px;
+}
+.checkbox .span4{
+	margin-left: 5px;
+	color: #e70014;
+	font-size: 12px;
+}
+
+.center-2 .input4{
+	background-color: #EF5965;
+	outline: none;
+	border: none;
+	height: 35px;
+	border-radius: 2px;
+	width: 200px;
+	display: block;
+	text-align: center;
+	color: white;
+	margin-left: 130px;
+}
